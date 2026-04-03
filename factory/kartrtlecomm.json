@@ -1,0 +1,9 @@
+{
+	"name": "kartrtlecomm",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f6d4d59-7669-4aa8-98e8-754d0b30ff19",
+		"tenantId": "8b58c79c-539d-4a63-aa04-6f5edb63e1e4"
+	}
+}
