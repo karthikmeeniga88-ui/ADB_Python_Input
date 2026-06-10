@@ -155,11 +155,11 @@
 						"type": "String"
 					},
 					{
-						"name": "Price",
+						"name": "TotalPrice",
 						"type": "String"
 					},
 					{
-						"name": "Year",
+						"name": "closeYear",
 						"type": "String"
 					},
 					{
